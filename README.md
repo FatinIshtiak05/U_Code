@@ -1,1 +1,1 @@
-# U_Code
+We built this project as a course assignment. The purpose of the project was to provide UIU students with a platform where they can easily practice coding, give tests, and create their CVs effortlessly.
